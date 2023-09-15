@@ -1,0 +1,38 @@
+main:
+
+  - title: Modelling and Design of LCL- Filtered T-Type Inverters for Common-Mode Resonance Current Suppression in High-Power Applications
+    authors:  <strong>Bei Liu</strong>, Xiangyang Xing, Rui Zhang, Chang Liu, Chuangping Wen
+    # conference_short: arXiv 2023
+    conference: PEAS 2023
+    pdf: ./assets/files/PEAS_2023.pdf
+    # code: https://github.com/xxxxxxx
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/teaser_peas_2023_resized.png
+    # notes: under review
+
+  - title: An Improved Model Predictive Control for A Novel Flying-Capacitor Five-Level Converter with Reduced Switching Devices
+    authors: Chuangping Wen, Xiangyang Xing, Chang Liu, Lantao Xing, Rui Zhang, <strong>Liu Bei</strong>
+    # conference_short: arXiv 2023
+    conference: IEEE Journal of Emerging and Selected Topics in Power Electronics (JESTPE)
+    pdf: https://ieeexplore.ieee.org/document/10210539
+    # code: https://github.com/Dr-Xiaogaren/T2E
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/teaser_jestpe_resized.png
+
+  
+    # pdf: https://ieeexplore.ieee.org/document/10210539
+    # code: https://github.com/Dr-Xiaogaren/T2E
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    # image: ./assets/img/teaser_jestpe_resized.png
+  # - title: A Model Predictive Control Method of Switching Loss Reduction and Common Mode Voltage Elimination
+  #   authors:  Chang Liu, Chenghui Zhang, Xiangyang Xing, Rui Zhang, <strong>Bei Liu</strong>, Frede Blaabjerg
+  #   # conference_short: AAAI 2022
+  #   pdf: xxxxx
+  #   # image: ./assets/img/teaser_aaai_resized.png
+  #     conference: in preparation
+    
+    
