@@ -3,12 +3,11 @@ main:
   - title: Modelling and Design of LCL- Filtered T-Type Inverters for Common-Mode Resonance Current Suppression in High-Power Applications
     authors:  <strong>Bei Liu</strong>, Xiangyang Xing, Rui Zhang, Chang Liu, Chuangping Wen
     # conference_short: arXiv 2023
-    conference: PEAS 2023
+    conference: PEAS 2023, working in progress
     pdf: ./assets/files/PEAS_2023.pdf
     # code: https://github.com/xxxxxxx
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_peas_2023_resized.png
-    # notes: under review
 
   - title: An Improved Model Predictive Control for A Novel Flying-Capacitor Five-Level Converter with Reduced Switching Devices
     authors: Chuangping Wen, Xiangyang Xing, Chang Liu, Lantao Xing, Rui Zhang, <strong>Liu Bei</strong>
